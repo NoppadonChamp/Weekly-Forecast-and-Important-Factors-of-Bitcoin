@@ -1,4 +1,4 @@
-# Weekly-Forecast-and-Important-Factors-of-Bitcoin
+# Weekly Forecast and Important Factors of Bitcoin Project
 รายละเอียดโปรเจค:
 
 สร้างmachine learingในการพยากรณ์ราคาBitcoinรายสัปดาห์ เพื่อเพิ่มโอกาสในการทำกำไรและลดความเสี่ยงในการลงทุน และอีกจุดประสงค์คือ การค้นหาปัจจัยที่สำคัญต่อราคาBitcoin เพื่อทราบถึงสัญญาณการเปลี่ยนของราคาBitcoinจากการเปลี่ยนแปลงของปัจจัยที่เกี่ยวข้อง
